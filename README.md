@@ -1,6 +1,6 @@
-# Project Name
+# Banking-System
 
-Brief description of your project.
+This Laravel project is a financial transaction management system. It allows users to make deposits and withdrawals, tracking their transaction history. The application implements various rules for transaction fees and free withdrawal conditions based on the user's account type (Individual or Business)..
 
 ## Table of Contents
 - [Getting Started](#getting-started)
